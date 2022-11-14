@@ -8,6 +8,7 @@ jupyter = "*"
 bokeh = "*"
 pandas = "*"
 matplotlib = "*"
+pytci = "*"
 
 [dev-packages]
 
