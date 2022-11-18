@@ -9,6 +9,7 @@ bokeh = "*"
 pandas = "*"
 matplotlib = "*"
 pytci = "*"
+selenium = "*"
 
 [dev-packages]
 
