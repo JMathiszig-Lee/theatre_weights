@@ -10,6 +10,7 @@ pandas = "*"
 matplotlib = "*"
 pytci = "*"
 selenium = "*"
+scipy = "*"
 
 [dev-packages]
 
